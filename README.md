@@ -2,7 +2,8 @@
 ## Exploratory Data Analysis of U.S. flight delays using real-world data from the U.S. Department of Transportation (2023–2024). Includes data cleaning, visualizations, and insights on delay causes, airline performance, and seasonal patterns.
 
 Read the full blog post on Medium:  
-👉 [Behind the Delay: What the Data Says About U.S. Flights]([https://medium.com/your-article-link](https://medium.com/@paboda-ratnayake/patterns-in-the-sky-a-flight-delay-analysis-1444df5d82d1))
+- [Behind the Delay: What the Data Says About U.S. Flights]([https://medium.com/your-article-link](https://medium.com/@paboda-ratnayake/patterns-in-the-sky-a-flight-delay-analysis-1444df5d82d1))
+  
 ---
 
 ## Project Objectives
