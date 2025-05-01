@@ -59,8 +59,8 @@
 ---
 ## Blog Post
 
-###This project is featured in a Medium article:  
-👉 *[Behind the Delay: What the Data Says About U.S. Flights](https://medium.com/your-article-link)*
+-This project is featured in a Medium article:  
+👉 *[Patterns in the Sky: A Flight Delay Analysis](https://medium.com/your-article-link)*
 
 ---
 
