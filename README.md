@@ -6,7 +6,7 @@
 ## Project Objectives
 
 - Identify the **most common causes** of flight delays.
-- Compare **airline and airport performance** (best vs. worst).
+- Compare **airport performance** based on flight delays and cancellations.
 - Discover **seasonal patterns** in delays and cancellations.
 
 ---
@@ -59,7 +59,7 @@
 ---
 ## Blog Post
 
--This project is featured in a Medium article:  
+- This project is featured in a Medium article:  
 👉 *[Patterns in the Sky: A Flight Delay Analysis](https://medium.com/your-article-link)*
 
 ---
