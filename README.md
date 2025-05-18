@@ -60,7 +60,7 @@
 ## Blog Post
 
 - This project is featured in a Medium article:  
-👉 *[Patterns in the Sky: A Flight Delay Analysis](https://medium.com/your-article-link)*
+👉 *[Patterns in the Sky: A Flight Delay Analysis](https://medium.com/@paboda-ratnayake/patterns-in-the-sky-a-flight-delay-analysis-1444df5d82d1)*
 
 ---
 
